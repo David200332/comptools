@@ -1,0 +1,91 @@
+{
+    "fields" : {
+        "title" : "Choose Your Favorite International Dishes And We'll Reveal If You're More Of A Right Or Left Brain Person",
+        "options" : [
+            {
+                "card__title" : "Choose an American dish",
+                "options" : [
+                    {
+                        "name" : "Wings",
+                        "weight" : "1"
+                    },
+                    {
+                        "name" : "Cheeseburger",
+                        "weight" : "2"
+                    },
+                    {
+                        "name" : "Pancakes",
+                        "weight" : "3"
+                    },
+                    {
+                        "name" : "Peanut Butter Pie",
+                        "weight" : "4"
+                    }
+                ]    
+            },
+            {
+                "card__title" : "Choose an Italian dish",
+                "options" : [
+                    {
+                        "name" : "Pizza",
+                        "weight" : "1"
+                    },
+                    {
+                        "name" : "Risotto",
+                        "weight" : "2"
+                    },
+                    {
+                        "name" : "Ravioli",
+                        "weight" : "3"
+                    },
+                    {
+                        "name" : "Bruschetta", 
+                        "weight" : "4"
+                    }
+                ]    
+            },
+            {
+                "card__title" : "Choose a Mexican dish",
+                "options" : [
+                    {
+                        "name" : "Tacos",
+                        "weight" : "1"
+                    },
+                    {
+                        "name" : "Tamales",
+                        "weight" : "2"
+                    },
+                    {
+                        "name" : "Burritos",
+                        "weight" : "3"
+                    },
+                    {
+                        "name" : "Guacamole",
+                        "weight" : "4"
+                    }
+                ]    
+            },
+            {
+                "card__title" : "Choose an Asian dish",
+                "options" : [
+                    {
+                        "name" : "Ramen",
+                        "weight" : "1"
+                    },
+                    {
+                        "name" : "Gyoza",
+                        "weight" : "2"
+                    },
+                    {
+                        "name" : "Sushi",
+                        "weight" : "3"
+                    },
+                    {
+                        "name" : "Orange Chicken",
+                        "weight" : "4"
+                    }
+                ]    
+            }
+        ]
+    }
+}
